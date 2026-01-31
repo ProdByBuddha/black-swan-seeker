@@ -1,8 +1,5 @@
 # Black Swan Event Seeker
 
-An AI agent skill specialized in **Red Teaming**, **Risk Analysis**, and identifying **High-Impact Outliers**.
-
-## What is this?
 This skill allows your AI agent to act as a specialized risk analyst. It uses a set of mental models (Taleb, Sornette, Systems Theory) to "stress test" any subject matter—be it a codebase, a financial strategy, a geopolitical situation, or a business plan.
 
 It specifically hunts for:
